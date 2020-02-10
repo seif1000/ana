@@ -1,6 +1,6 @@
 import React,{useState} from 'react' ;
-import {database ,initializeApp} from "firebase" ;
-import firebase from "firebase" ;
+import {database } from "firebase" ;
+
 
 
 export default function Footer() {
