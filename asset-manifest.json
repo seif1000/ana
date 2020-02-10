@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.a71871b9.chunk.css",
+    "main.js": "/me/static/js/main.9aaf3087.chunk.js",
+    "main.js.map": "/me/static/js/main.9aaf3087.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.7ad6308b.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.7ad6308b.js.map",
+    "static/js/2.7af4090d.chunk.js": "/me/static/js/2.7af4090d.chunk.js",
+    "static/js/2.7af4090d.chunk.js.map": "/me/static/js/2.7af4090d.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.3dba5ed1b3c5b371a877f8b9ff54ad8b.js": "/me/precache-manifest.3dba5ed1b3c5b371a877f8b9ff54ad8b.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/main.a71871b9.chunk.css.map": "/me/static/css/main.a71871b9.chunk.css.map",
+    "static/js/2.7af4090d.chunk.js.LICENSE.txt": "/me/static/js/2.7af4090d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/me/static/media/work-731198_1920.0737fbef.jpg",
+    "static/media/seif.jpg": "/me/static/media/seif.7e7a61f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad6308b.js",
+    "static/js/2.7af4090d.chunk.js",
+    "static/css/main.a71871b9.chunk.css",
+    "static/js/main.9aaf3087.chunk.js"
+  ]
+}
