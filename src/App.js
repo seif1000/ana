@@ -1,25 +1,46 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import React ,{useState,useEffect} from 'react';
+import './App.scss';
+import ShowCase from './componnet/ShowCase';
+import Skill from './componnet/Skill';
+import Project from './componnet/Project';
+import Footer from './componnet/Footer';
+import { Link, Element , Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import {database ,initializeApp} from "firebase" ;
 function App() {
+  const config = {
+    apiKey: "AIzaSyAdbxi8lgWr_d6V9oQY-zbEyNJFn497XUw",
+    authDomain: "portfolio-3163a.firebaseapp.com",
+    databaseURL: "https://portfolio-3163a.firebaseio.com",
+    projectId: "portfolio-3163a",
+    storageBucket: "portfolio-3163a.appspot.com",
+    messagingSenderId: "104630881178"
+  };
+   useEffect(()=>{
+        initializeApp(config) ;
+   },[])
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   
+      <div className="App">
+          <ShowCase/>
+           
+                <Element name="Skills">
+                   <Skill/>
+                </Element>
+               
+                   <Element name="Projects">
+                      <Project/>
+                   </Element>
+                 <Element name="Footer">
+                    <Footer/>     
+                 </Element>
+                
+           
+                 
+        </div>
+       
+   
+   
   );
 }
 
