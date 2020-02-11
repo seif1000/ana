@@ -17,7 +17,7 @@ const ShowCase =()=> {
                         <div className="bar bar3"></div>
                     </div>
                     
-                    <div className="icone icone-1"><a target="_blank" href="https://drive.google.com/file/d/17g9MyrtoUFw50P0azNeRcw2PXMXu-5rH/view?usp=sharing"><img src={rocket} /></a></div>
+                    <div className="icone icone-1"><a target="_blank" href="https://drive.google.com/file/d/1AfY_45vHCr9z_QpYp5Ez4IwfLCPAnhG6/view?usp=sharing"><img src={rocket} /></a></div>
                     <Link activeClass="active" to="Skills" spy={true} smooth={true} duration={250}>
                     <div className="icone icone-2"><img src={user} /></div>
                     </Link>
