@@ -383,6 +383,15 @@ body {
       
         
      }
+     .html-one{
+      background-image:linear-gradient(
+         rgba(33, 38, 75, 0.5), 
+         rgba(33, 38, 75, 0.8)
+       ), url("./asset/html.png");
+       
+   
+     
+  }
          
           
            
@@ -410,12 +419,16 @@ body {
     }
     #one:checked ~ .panels #one-panel,
     #two:checked ~ .panels #two-panel,
-    #three:checked ~ .panels #three-panel{
+    #three:checked ~ .panels #three-panel,
+    #pre:checked ~ .panels #pre-panel
+    {
       display:block
     }
     #one:checked ~ .tabs #one-tab,
     #two:checked ~ .tabs #two-tab,
-    #three:checked ~ .tabs #three-tab{
+    #three:checked ~ .tabs #three-tab,
+    #pre:checked ~ .tabs #pre-tab
+    {
       background:#fffffff6;
       color:#000;
       border-top: 3px solid lighten($color:$seconde-colore, $amount: 20);

@@ -13,15 +13,30 @@ export default function Project() {
         <p>My recent Work</p>
         <div classNam="wraper">
                 <input class="radio" id="one" name="group"  value="react" type="radio" checked={stack==="react"} onChange={onchangeHandler}/>
+                <input class="radio" id="pre" name="group"  value="html" type="radio" checked={stack==="html"} onChange={onchangeHandler}/> 
                 <input class="radio" id="two" name="group" value="full"  type="radio" checked={stack==="full"}onChange={onchangeHandler}/>
                 <input class="radio" id="three" name="group" value="android" type="radio" checked={stack==="android"}onChange={onchangeHandler}/>
                 <div class="tabs">
                     <label class="tab" id="one-tab" for="one">React</label>
+                    <label class="tab" id="pre-tab" for="pre">Html/CSS</label>
                     <label class="tab" id="two-tab" for="two">Full-Stack</label>
                     <label class="tab" id="three-tab" for="three">android</label>
                 </div>
                 <div class="panels">
+                <div class="panel" id="pre-panel">
+                <div className="project">
+                                <div className="proc html-one">
+                                   
+                                <a href="https://github.com/seif1000/crispy-parakeet" class="git"target='_blank'>Github</a>
+                                <a href="https://seif1000.github.io/crispy-parakeet/"target='_blank'>project</a>
+                 
+                                  
+                                </div>
+                                
+                        </div>
+                </div>
                     <div class="panel" id="one-panel">
+                   
                         <div className="project">
                                 <div className="proc react-one">
                                      
