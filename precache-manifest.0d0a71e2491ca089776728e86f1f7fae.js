@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dd0d0365e4f0f1146c6819f9e208f48",
+    "revision": "1b2625045f92c8467424207f8a36f5c4",
     "url": "/ana/index.html"
   },
   {
-    "revision": "124787da65f59b2615b7",
-    "url": "/ana/static/css/main.83942c05.chunk.css"
+    "revision": "5afe77b37d4b2e982df9",
+    "url": "/ana/static/css/main.c01358c1.chunk.css"
   },
   {
     "revision": "626cee21dcd103d45383",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ana/static/js/2.462c6ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "124787da65f59b2615b7",
-    "url": "/ana/static/js/main.b4089276.chunk.js"
+    "revision": "5afe77b37d4b2e982df9",
+    "url": "/ana/static/js/main.88ddad7d.chunk.js"
   },
   {
     "revision": "98645720444977eb90a2",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8335565f7d8ab887299c2f7405857eea",
     "url": "/ana/static/media/ap.8335565f.png"
+  },
+  {
+    "revision": "3997d76f4652c0313df28c9745293e5d",
+    "url": "/ana/static/media/html.3997d76f.png"
   },
   {
     "revision": "b7c82844ea67e462b3b437131e0c7527",

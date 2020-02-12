@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ana/static/css/main.83942c05.chunk.css",
-    "main.js": "/ana/static/js/main.b4089276.chunk.js",
-    "main.js.map": "/ana/static/js/main.b4089276.chunk.js.map",
+    "main.css": "/ana/static/css/main.c01358c1.chunk.css",
+    "main.js": "/ana/static/js/main.88ddad7d.chunk.js",
+    "main.js.map": "/ana/static/js/main.88ddad7d.chunk.js.map",
     "runtime-main.js": "/ana/static/js/runtime-main.8e263fdf.js",
     "runtime-main.js.map": "/ana/static/js/runtime-main.8e263fdf.js.map",
     "static/js/2.462c6ac2.chunk.js": "/ana/static/js/2.462c6ac2.chunk.js",
     "static/js/2.462c6ac2.chunk.js.map": "/ana/static/js/2.462c6ac2.chunk.js.map",
     "index.html": "/ana/index.html",
-    "precache-manifest.3b22adbc86744428eefc62cd57240631.js": "/ana/precache-manifest.3b22adbc86744428eefc62cd57240631.js",
+    "precache-manifest.0d0a71e2491ca089776728e86f1f7fae.js": "/ana/precache-manifest.0d0a71e2491ca089776728e86f1f7fae.js",
     "service-worker.js": "/ana/service-worker.js",
-    "static/css/main.83942c05.chunk.css.map": "/ana/static/css/main.83942c05.chunk.css.map",
+    "static/css/main.c01358c1.chunk.css.map": "/ana/static/css/main.c01358c1.chunk.css.map",
     "static/js/2.462c6ac2.chunk.js.LICENSE.txt": "/ana/static/js/2.462c6ac2.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/ana/static/media/work-731198_1920.0737fbef.jpg",
     "static/media/seif.jpg": "/ana/static/media/seif.7e7a61f0.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8e263fdf.js",
     "static/js/2.462c6ac2.chunk.js",
-    "static/css/main.83942c05.chunk.css",
-    "static/js/main.b4089276.chunk.js"
+    "static/css/main.c01358c1.chunk.css",
+    "static/js/main.88ddad7d.chunk.js"
   ]
 }
